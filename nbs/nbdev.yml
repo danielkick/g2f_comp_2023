@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "g2f_comp_2023"
+  site-url: "https://danielkick.github.io/g2f_comp_2023"
+  description: "The purpose of this project is to make the notebooks created for the Genomes to Fields prediction competition."
+  repo-branch: main
+  repo-url: "https://github.com/danielkick/g2f_comp_2023"
